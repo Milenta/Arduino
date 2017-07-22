@@ -1,2 +1,2 @@
 # Arduino
-Somo of my Arduino codes
+Some of my Arduino codes and projects
